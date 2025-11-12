@@ -1,0 +1,1 @@
+# VMware-workstation-on-windows-settings
